@@ -1,0 +1,12 @@
+@import "../../App.scss";
+
+/*HOME COMPONENT STYLE*/
+.homeContainer {
+  width: 100%;
+  max-width: 500px;
+  height: 100%;
+  margin-top: 10vh;
+  padding: 10px 0;
+
+  z-index: -999;
+}

@@ -1,0 +1,12 @@
+{
+  "hello": {
+    "appName": "Dummy App",
+    "appHome": "Home",
+    "appContactUs": "Contact Us",
+    "appLogin": "Login",
+    "appSingUp": "Sing Up",
+    "title": "Hello Scorp Team",
+    "helloText": "Hello I am Ahmet. We have translated this text from English to Turkish.",
+    "helloText2": "I tried to do the task you gave me. I hope you will like it."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "hello": {
+    "appName": "Dummy Uygulaması",
+    "appHome": "Anasayfa",
+    "appContactUs": "Bize Ulaşın",
+    "appLogin": "Giriş Yap",
+    "appSingUp": "Kayıt Ol",
+    "title": "Merhaba Scorp Ekibi",
+    "helloText": "Merhaba Ben Ahmet. Bu metinde İngilizce'den Türkçe'ye çeviri yapktık.",
+    "helloText2": "Vermiş olduğunuz görevi yapmaya çalıştım. Umarım beğenirsiniz."
+  }
+}
