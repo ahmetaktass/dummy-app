@@ -35,10 +35,10 @@ const NavbarComponent = () => {
             <NavLink exact to="/ContactUs" className="navLinks">
               {t('hello.appContactUs')}
             </NavLink>
-            <NavLink exact to="/ContactUs" className="navLinks">
+            <NavLink exact to="/" className="navLinks">
               <LanguageSwitcher />
             </NavLink>
-            <NavLink exact to="/ContactUs" className="navLinks">
+            <NavLink exact to="/" className="navLinks">
               <UserModal />
             </NavLink>
           </Nav>
