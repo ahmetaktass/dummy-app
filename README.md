@@ -30,7 +30,7 @@ Bu proje ile Türkçe / İngilizce çeviri , Login Modalı ve sayfalara Router v
     }
   }
   
-  # yapısını  aşağıdaki gibi değiştirin.
+  yapısını  aşağıdaki gibi değiştirin.
   
  constructor(props) {
     super(props)
