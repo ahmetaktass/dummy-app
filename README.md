@@ -1,10 +1,12 @@
+#PROJE HAKKINDA 
+Bu proje ile Türkçe / İngilizce çeviri , Login Modalı ve sayfalara Router vererek gezinmeyi ve amaçladım. 
 
 * Bu projede eact-router-dom kullanarak  Router, Switch uyguladım. 
 * i18next kullanarak web sitesine TÜrkçe / İngilizce dil desteği eklemedim. 
 * Basit bir şekilde kullanıcı giriş modadı ekledim. Gerekli bilgiler  aşağıda mevcuttur.
 
 
-KURULUM 
+#KURULUM 
 * git clone git@github.com:ahmetaktass/dummy-app.git
 * cd dummy-app
 * npm install
