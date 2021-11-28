@@ -1,5 +1,5 @@
 # PROJE HAKKINDA 
-Bu proje ile Türkçe / İngilizce çeviri , Login Modalı ve sayfalara Router vererek gezinmeyi ve amaçladım. 
+Bu proje ile Türkçe / İngilizce çeviri , Login Modalı ve sayfalara Router vererek gezinmeyi  amaçladım. 
 
 * Bu projede eact-router-dom kullanarak  Router, Switch uyguladım. 
 * i18next kullanarak web sitesine TÜrkçe / İngilizce dil desteği eklemedim. 
